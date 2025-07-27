@@ -52,7 +52,7 @@ project-folder/
 
 2. Proje klasörüne gidin: 
 ```bash
-   cd kaliplari-kir-ai
+   cd Kaliplari-Kir
 ```
 
 3. **index.html** dosyasını bir tarayıcıda açarak projeyi görüntüleyin.
